@@ -7,7 +7,7 @@
 
 # Site settings
 title: GWMTM Audio Guide
-email: your-email@example.com
+email: f.moldesvalido@gwu.edu
 description: > # this means to ignore newlines until "baseurl:"
   A web-based audio guide theme for Jekyll.
 baseurl: "/blog/" # the subpath of your site, e.g. /blog
@@ -26,4 +26,4 @@ headphones_icon_light: "/assets/img/icons/headphones-light.png"
 markdown: kramdown
 
 # Version settings (version number below is used for cache busting CSS and JS)
-version_number: 1.0.0.1
+version_number: 1.0.0.2
