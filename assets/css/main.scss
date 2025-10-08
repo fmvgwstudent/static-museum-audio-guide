@@ -17,9 +17,9 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       	#033C5A;
-$background-hr:		#FFFFFF;
-$background-color: 	#00FF90;
-$background-darker: #FF00DC;
+$background-hr:		#383838;
+$background-color: 	#FAFAFA;
+$background-darker: #0073AA;
 $brand-color:	   	#033C5A;
 $anchor-hover-color:	lighten($brand-color, 30%);
 
@@ -34,7 +34,7 @@ $player-play-color:		lighten($brand-color, 5%);
 $player-progress-height: 10px;
 
 $tile-bgcolor:	   $brand-color;
-$tile-color:	   #FF6A00;
+$tile-color:	   #0073AA;
 $tile-size:		   56px;
 $tile-size-large:  64px;
 $tile-border-radius:	2px;
