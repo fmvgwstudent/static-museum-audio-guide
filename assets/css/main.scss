@@ -34,14 +34,14 @@ $player-play-color:		darken($brand-color, 5%);
 $player-progress-height: 10px;
 
 $tile-bgcolor:	   $brand-color;
-$tile-color:	   #FF7F27;
+$tile-color:	   #033C5A;
 $tile-size:		   56px;
 $tile-size-large:  64px;
 $tile-border-radius:	2px;
 
 $grey-color:       $brand-color;
-$grey-color-light: darken($grey-color, 40%);
-$grey-color-dark:  lighten($grey-color, 25%);
+$grey-color-light: darken($grey-color, 100%);
+$grey-color-dark:  lighten($grey-color, 75%);
 
 // Width of the content area
 $content-width:    800px;
