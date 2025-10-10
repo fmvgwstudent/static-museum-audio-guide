@@ -19,7 +19,7 @@ $spacing-unit:     30px;
 $text-color:       	#033C5A;
 $background-hr:		#383838;
 $background-color: 	#FAFAFA;
-$background-darker: #0073AA;
+$background-darker: #00FF90;
 $brand-color:	   	#033C5A;
 $anchor-hover-color:	darken($brand-color, 30%);
 
@@ -28,8 +28,8 @@ $player-height:		64px;
 $player-button-size:	48px;
 $player-bgcolor:	$brand-color;
 $player-scrubber-color:	lighten($brand-color, 15%);
-$player-loaded-color:	lighten($brand-color, 10%);
-$player-progress-color:		darken($brand-color, 10%);
+$player-loaded-color:	lighten($brand-color, 6%);
+$player-progress-color:		darken($brand-color, 6%);
 $player-play-color:		darken($brand-color, 5%);
 $player-progress-height: 10px;
 
